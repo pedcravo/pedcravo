@@ -27,7 +27,7 @@ Busco a oportunidade para iniciar no mercado na área de tecnologia, com o objet
 <br><br>
 
 ## 📫 Contato
-[![Gmail Badge](https://img.shields.io/badge/-pedroh.s.cravo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroh.s.cravo@gmail.com)](mailto:pedroh.s.cravo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedroh.s.cravo@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroh.s.cravo@gmail.com)](mailto:pedroh.s.cravo@gmail.com)
 [![Linkedin: Pedro Cravo](https://img.shields.io/badge/-PedroCravo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-cravo-413710174/)](https://www.linkedin.com/in/pedro-cravo-413710174/)<br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
