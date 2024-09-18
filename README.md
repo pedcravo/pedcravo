@@ -23,7 +23,7 @@ Busco a oportunidade para iniciar no mercado na área de tecnologia, com o objet
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=unreal,blender)](https://skillicons.dev)
 ![My Skills](https://img.icons8.com/?size=51&id=38604&format=png&color=000000)
-[![My Skills](https://skillicons.dev/icons?i=godot,github,arduino,visualstudio,replit,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,arduino,visualstudio,replit,figma,notion)](https://skillicons.dev)
 <br><br>
 
 ## 📫 Contato
