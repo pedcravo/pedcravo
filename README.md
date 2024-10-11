@@ -16,7 +16,7 @@ Busco a oportunidade para iniciar no mercado na área de tecnologia, com o objet
 - Edição de vídeo e imagem
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,latex)](https://skillicons.dev)
 
 ![pedcravo GitHub stats](https://github-readme-stats.vercel.app/api?username=pedcravo&show_icons=true&theme=transparent) <br><br>
 
