@@ -27,7 +27,7 @@ Desenvolvedor Backend Júnior e estudante de Ciência da Computação, focado em
 
 ## ⚙️ Ferramentas
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,cmake,aws,docker,redis,mysql,nodejs,express,vscode,visualstudio,unreal,blender" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,cmake,aws,docker,redis,mysql,vscode,unreal,blender" />
 </p>
 
 ## 📫 Contato
