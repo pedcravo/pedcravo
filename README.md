@@ -6,14 +6,14 @@ Desenvolvedor Backend Júnior e estudante de Ciência da Computação, focado em
 ## 💼 Perfil Profissional
 - 🏢 Desenvolvedor Backend Júnior na [OnTick Invest][ontick], desenvolvendo sistemas de market data em C++
 - 🎓 Cursando Ciência da Computação na UVV
-- 💻 Desenvolvedor Backend, com interesse em sistemas de alta performance e desenvolvimento de jogos
-
+- 💻 Interesse em sistemas de alta performance e desenvolvimento de jogos
+   
 ## 🔭 No que eu trabalho
 - 📈 **Market data de baixa latência** — parsing de protocolo FIX 4.4 (B3 UMDF), construção de order book e geração de candles OHLC
 - 🔌 **Arquiteturas de mensageria** — proxies e pipelines pub/sub com ZeroMQ (PUB/SUB, ROUTER/DEALER)
 - 🪙 **Conectividade com exchanges** — ingestão de streams via WebSocket (Binance), reconexão resiliente e arbitragem entre múltiplos feeds com ring buffer
 - ⚡ **Otimização em C++** — parsing com SIMD (AVX2) e SWAR, `std::from_chars`, flags de compilação e layouts cache-friendly
-- 🗄️ **Persistência e visualização** — séries temporais em Redis e dashboard de candlesticks em Node.js/Express
+- 🗄️ **Persistência e visualização** — séries temporais em Redis e dashboard de candlesticks
 
 ## 🚀 Habilidades
 - Resolução de problemas e depuração de sistemas complexos
