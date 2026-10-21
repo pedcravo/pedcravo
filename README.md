@@ -1,30 +1,33 @@
 # 👋 Olá, eu sou Pedro Cravo
+
 ## 😀 Sobre mim
-Busco a oportunidade para iniciar no mercado na área de tecnologia, com o objetivo de colocar em prática minhas habilidades, aprender e contribuir com os resultados.
+Desenvolvedor Backend Júnior e estudante de Ciência da Computação, focado em **C++ de baixa latência** para infraestrutura de dados de mercado financeiro. Gosto de entender o sistema de ponta a ponta — do byte que chega na rede até o dado pronto para consumo — e de otimizar cada etapa no caminho.
 
 ## 💼 Perfil Profissional
-- 💻 Estudante de Programação, Desenvolvedor Backend e de Jogos
-- 🎓 Cursando Ciências da Computação na UVV
-- 🏢 Estagiando na [Ontick Invest][ontick]
+- 🏢 Desenvolvedor Backend Júnior na [OnTick Invest][ontick], desenvolvendo sistemas de market data em C++
+- 🎓 Cursando Ciência da Computação na UVV
+- 💻 Desenvolvedor Backend, com interesse em sistemas de alta performance e desenvolvimento de jogos
 
+## 🔭 No que eu trabalho
+- 📈 **Market data de baixa latência** — parsing de protocolo FIX 4.4 (B3 UMDF), construção de order book e geração de candles OHLC
+- 🔌 **Arquiteturas de mensageria** — proxies e pipelines pub/sub com ZeroMQ (PUB/SUB, ROUTER/DEALER)
+- 🪙 **Conectividade com exchanges** — ingestão de streams via WebSocket (Binance), reconexão resiliente e arbitragem entre múltiplos feeds com ring buffer
+- ⚡ **Otimização em C++** — parsing com SIMD (AVX2) e SWAR, `std::from_chars`, flags de compilação e layouts cache-friendly
+- 🗄️ **Persistência e visualização** — séries temporais em Redis e dashboard de candlesticks em Node.js/Express
 
 ## 🚀 Habilidades
-- Criatividade
-- Capacidade de trabalho em equipe
-- Organização e resolução de problemas
+- Resolução de problemas e depuração de sistemas complexos
+- Organização e documentação técnica
+- Criatividade e trabalho em equipe
 
-
-## 👨‍💻 Linguagens e Typescripts: 
+## 👨‍💻 Linguagens
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,latex,markdown" />
-  <br>
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedcravo&layout=compact&theme=transparent">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,bash,html,css,latex,markdown" />
 </p>
 
-## ⚙️ Ferramentas:
+## ⚙️ Ferramentas
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,redis,mysql,docker,vscode,visualstudio,unreal,blender" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,cmake,aws,docker,redis,mysql,nodejs,express,vscode,visualstudio,unreal,blender" />
     <img src="https://img.icons8.com/?size=51&id=38604&format=png&color=000000">
 </p>
 
@@ -32,6 +35,6 @@ Busco a oportunidade para iniciar no mercado na área de tecnologia, com o objet
 [![Gmail Badge](https://img.shields.io/badge/-pedroh.s.cravo@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroh.s.cravo@gmail.com)](mailto:pedroh.s.cravo@gmail.com)
 [![Linkedin: Pedro Cravo](https://img.shields.io/badge/-PedroCravo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-cravo-413710174/)](https://www.linkedin.com/in/pedro-cravo-413710174/)
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+Fique à vontade para entrar em contato para discutir colaborações, projetos interessantes ou qualquer assunto relacionado a programação — principalmente C++, sistemas de baixa latência e mercado financeiro. 😊
 
 [ontick]: https://www.ontick.com.br/
