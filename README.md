@@ -22,7 +22,7 @@ Desenvolvedor Backend Júnior e estudante de Ciência da Computação, focado em
 
 ## 👨‍💻 Linguagens
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,bash,html,css,latex,markdown" />
+    <img src="https://skillicons.dev/icons?i=cpp,markdown,bash,latex,c,python" />
 </p>
 
 ## ⚙️ Ferramentas
